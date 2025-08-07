@@ -1,0 +1,2 @@
+S8589:
+1=> Nutella Oreo, Quantity => 1, Price => 1402=> Lychee, Quantity => 2, Price => 39

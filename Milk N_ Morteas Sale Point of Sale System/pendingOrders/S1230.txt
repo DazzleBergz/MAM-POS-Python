@@ -1,0 +1,2 @@
+S1230:
+1=> fish, Quantity => 1, Price => 100
